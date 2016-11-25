@@ -1,0 +1,10 @@
+﻿operation.obj : error LNK2005: "public: __thiscall String::String(void)" (??0String@@QAE@XZ) уже определен в lab2.1.obj
+operation.obj : error LNK2005: "public: __thiscall String::~String(void)" (??1String@@QAE@XZ) уже определен в lab2.1.obj
+operation.obj : error LNK2005: "public: void __thiscall String::getString(void)" (?getString@String@@QAEXXZ) уже определен в lab2.1.obj
+operation.obj : error LNK2005: "public: void __thiscall String::read(void)" (?read@String@@QAEXXZ) уже определен в lab2.1.obj
+operation.obj : error LNK2005: "public: void __thiscall String::setString(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?setString@String@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в lab2.1.obj
+operation.obj : error LNK2005: "public: void __thiscall String::simbol(void)" (?simbol@String@@QAEXXZ) уже определен в lab2.1.obj
+operation.obj : error LNK2005: "public: int __thiscall String::size_str(void)" (?size_str@String@@QAEHXZ) уже определен в lab2.1.obj
+operation.obj : error LNK2005: "public: void __thiscall String::test(void)" (?test@String@@QAEXXZ) уже определен в lab2.1.obj
+operation.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall String::trim_str(void)" (?trim_str@String@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) уже определен в lab2.1.obj
+E:\MyWork\OOP\lab2.1\Debug\lab2.1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

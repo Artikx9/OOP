@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\iterator(32): error C2039: push_back: не является членом "std::array<double,5>"
+  e:\mywork\oop\laba10(1)\laba10(1)\main.cpp(12): note:  см. объявление "std::array<double,5>"
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\iterator(31): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2316): note: см. ссылку на создание экземпляров функции шаблон при компиляции "std::back_insert_iterator<std::array<double,5>> &std::back_insert_iterator<std::array<double,5>>::operator =(const double &)"
+  e:\mywork\oop\laba10(1)\laba10(1)\main.cpp(49): note: см. ссылку на создание экземпляров класса шаблон при компиляции "std::back_insert_iterator<std::array<double,5>>"
